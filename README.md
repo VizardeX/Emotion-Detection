@@ -57,7 +57,7 @@ This project implements a facial emotion detection system using classical comput
 - Tools: Jupyter Notebook
 
 ## Results
-- **SVM and Logistic Regression achieved the highest accuracy** on the original CK+ dataset
+- **SVM achieved a very high accuracy of 100%* on the original CK+ dataset
 - Real-time prediction works smoothly using OpenCV
 - Experiment on the webscraped dataset demonstrates the importance of high-quality training data
 
